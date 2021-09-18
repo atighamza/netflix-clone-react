@@ -1,0 +1,44 @@
+.row {
+  margin-top: 20px;
+  color: white;
+  margin-left: 20px;
+}
+
+.row_posters {
+  display: flex;
+  margin-left: 10px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  margin-bottom: 20px;
+}
+.row_posters::-webkit-scrollbar {
+  display: none;
+}
+.poster {
+  width: 400px;
+  height: 170px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.row_poster {
+  height: 170px;
+  width: 300px;
+  transition: transform 0.4s;
+  margin-right: 15px;
+}
+.row_poster:hover {
+  transform: scale(1.08);
+}
+.row_posterLarge {
+  max-height: 250px;
+}
+@media (max-width: 700px) {
+  .poster {
+    width: 300px;
+    height: 120px;
+  }
+  .row_poster {
+    width: 220px;
+    height: 100px;
+  }
+}
