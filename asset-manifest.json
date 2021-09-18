@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/atighamza/netflix-clone-react/static/css/main.7d483c52.chunk.css",
+    "main.js": "/atighamza/netflix-clone-react/static/js/main.bc7edd33.chunk.js",
+    "main.js.map": "/atighamza/netflix-clone-react/static/js/main.bc7edd33.chunk.js.map",
+    "runtime-main.js": "/atighamza/netflix-clone-react/static/js/runtime-main.c1fb06e0.js",
+    "runtime-main.js.map": "/atighamza/netflix-clone-react/static/js/runtime-main.c1fb06e0.js.map",
+    "static/js/2.e6370c53.chunk.js": "/atighamza/netflix-clone-react/static/js/2.e6370c53.chunk.js",
+    "static/js/2.e6370c53.chunk.js.map": "/atighamza/netflix-clone-react/static/js/2.e6370c53.chunk.js.map",
+    "index.html": "/atighamza/netflix-clone-react/index.html",
+    "static/css/main.7d483c52.chunk.css.map": "/atighamza/netflix-clone-react/static/css/main.7d483c52.chunk.css.map",
+    "static/js/2.e6370c53.chunk.js.LICENSE.txt": "/atighamza/netflix-clone-react/static/js/2.e6370c53.chunk.js.LICENSE.txt",
+    "static/media/netflix-favicon.e82b707c.png": "/atighamza/netflix-clone-react/static/media/netflix-favicon.e82b707c.png",
+    "static/media/netflix.29d98df6.png": "/atighamza/netflix-clone-react/static/media/netflix.29d98df6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1fb06e0.js",
+    "static/js/2.e6370c53.chunk.js",
+    "static/css/main.7d483c52.chunk.css",
+    "static/js/main.bc7edd33.chunk.js"
+  ]
+}
